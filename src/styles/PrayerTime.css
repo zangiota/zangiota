@@ -1,0 +1,42 @@
+.prayer-time{
+    width: 100%;
+    height: 100%;
+    margin-top: 100px;
+}
+
+.prayer-time__row{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.prayer-time__card{
+    width: 150px;
+    height: 150px;
+    margin: 12px 8px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    text-align:center;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.prayer-time__time{
+    font-size: 22px;
+}
+
+.prayer-time__title{
+    font-size: 18px;
+    margin: 0;
+}
+
+.prayer-time__main-title{
+    font-size: 38px;
+    text-align: center;
+}

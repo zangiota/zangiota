@@ -1,0 +1,14 @@
+.mapPlace {
+    width: 100%;
+    height: 450px;
+    margin: 55px auto;
+}
+
+.mapPlace div{
+    width: 100% !important;
+    height: 100% !important;
+}
+.place_img{
+    height: 50px;
+    width: 50px;
+}
