@@ -48,8 +48,8 @@ const NearPlaces = () => {
             <section className="prayer-time" id="namoz-vaqt">
 
                 <div className="container">
-                    <h1 className="prayer-time__main-title">
-                        Atrofimizda nima bor
+                    <h1 className="place_title">
+                       / Atrofimizda nima bor
                     </h1>
                     <div className="prayer-time__row">
                         <div className="prayer-time__card">

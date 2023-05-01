@@ -12,3 +12,8 @@
     height: 50px;
     width: 50px;
 }
+.place_title {
+    font-size: 38px;
+    color: rgb(236,134, 0);
+    text-align: center;
+}
