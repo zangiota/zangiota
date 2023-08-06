@@ -21,6 +21,7 @@
 .video_mosque {
     width: 50%;
     height: 500px;
+    margin-bottom: 15px;
 }
 .video_mosque1 {
     width: 100%;
@@ -35,5 +36,6 @@
 
 .text_news {
     margin-left: 50px;
+    margin-right: 8px;
 
 }

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import '../styles/Header.css';
 import '../styles/media.css';
-import headerLogo from '../images/logo-new.png'
+import headerLogo from '../images/logo2.png'
 import telLogo from '../images/logo-tel.png'
 import OpenMenuImg from '../images/open.svg'
 import CloseMenuImg from '../images/close.svg'
