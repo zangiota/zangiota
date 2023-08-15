@@ -28,14 +28,16 @@
     height: 100%;
 }
 .video_text {
-    font-size: 26px;
+    font-size: 16px;
     font-family: 'Roboto', sans-serif;
-    margin: 10px;
-    
+    text-align: center;
+    text-align: justify;
 }
 
 .text_news {
-    margin-left: 50px;
-    margin-right: 8px;
+     margin: 0 auto;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 120%;
 
 }
